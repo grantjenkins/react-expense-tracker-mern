@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-expense-tracker-mern"]=this["webpackJsonpreact-expense-tracker-mern"]||[]).push([[0],{10:function(e,r,t){"use strict";t.r(r);var n=t(1),c=t.n(n),s=t(3),o=t.n(s),a=(t(8),t(0));var i=function(){return Object(a.jsx)("div",{children:"Hello World"})};o.a.render(Object(a.jsx)(c.a.StrictMode,{children:Object(a.jsx)(i,{})}),document.getElementById("root"))},8:function(e,r,t){}},[[10,1,2]]]);
+//# sourceMappingURL=main.29e2daac.chunk.js.map
